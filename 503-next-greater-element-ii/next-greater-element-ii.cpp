@@ -1,5 +1,8 @@
 /*
-Author: Nazmul Islam
+  Author: Nazmul Islam
+  Created: 2025-11-25 20:18
+  Using monotonic decreasing stack logic
+  Complexity: O(n) time & O(n) space
 */
 class Solution {
 public:
