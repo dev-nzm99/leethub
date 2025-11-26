@@ -1,6 +1,6 @@
 /*
  Author:Nazmul Islam
- Complexity: O(n)
+ Complexity: O(n) time & O(1) space
 */
 class Solution {
 public:
