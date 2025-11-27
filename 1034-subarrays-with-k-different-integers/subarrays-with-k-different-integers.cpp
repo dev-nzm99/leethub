@@ -10,9 +10,10 @@ public:
         return helperFunction(nums, k) - helperFunction(nums, k - 1);
     }
 
-private:    
-// to calculate the number of subarrays with at most k different integers
+private:
+    // to calculate the number of subarrays with at most k different integers
     int helperFunction(vector<int>& a, int v) {
+        if (v < 0) return 0;
         unordered_map<int, int> m;
         int l = 0;
         int cnt = 0;
