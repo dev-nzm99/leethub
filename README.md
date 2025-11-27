@@ -8,7 +8,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
 
 <p align="center">
   <a href="https://github.com/dev-nzm99">
-    <img src="https://img.shields.io/badge/Creator-Nazmul%20Islam-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Author-Nazmul%20Islam-blue?style=for-the-badge" />
   </a>
   <a>
     <!-- PROBLEM_BADGE -->
