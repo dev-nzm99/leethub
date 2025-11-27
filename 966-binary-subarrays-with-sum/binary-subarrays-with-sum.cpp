@@ -20,3 +20,33 @@ public:
         return res;
     }
 };
+
+/*
+  //Using Sliding window
+  //O(n) time & O(1) space (space optimization)
+--------------------------------------------------------------------------
+class Solution {
+public:
+    int numSubarraysWithSum(vector<int>& nums, int goal) {
+        return halperFun(nums, goal) - halperFun(nums, goal - 1);
+    }
+private:
+   //helper function to calculate the number of subarrays with sum <= k
+    int halperFun(vector<int>& arr, int k) {  
+        if (k < 0)
+            return 0;
+        int cnt = 0;
+        int l = 0;
+        int sum = 0;
+        for (int r = 0; r < arr.size(); ++r) {
+            sum += arr[r];
+            while (sum > k) {
+                sum -= arr[l];
+                ++l;
+            }
+            cnt += (r - l + 1);
+        }
+        return cnt;
+    }
+};
+*/
