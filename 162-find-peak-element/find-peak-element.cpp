@@ -17,7 +17,6 @@ public:
                 st = mid + 1;
             } else {
                 if (mid < n - 1 && nums[mid] > nums[mid + 1]) {
-                  //  res = mid;
                     end = mid - 1;
                 } else
                     st = mid + 1;
