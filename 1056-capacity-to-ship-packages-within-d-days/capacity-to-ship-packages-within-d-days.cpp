@@ -1,7 +1,7 @@
 /*
   Author:Nazmul Islam
   Using Answer on Binary Search Pattern
-  Complexity: 
+  Complexity: O(nlog(SumOfWeights)) time & O(1) space 
 */
 class Solution {
 public:
