@@ -1,5 +1,5 @@
 /*
- Author:Nazuml Islam
+ Author:Nazmul Islam
  Using binary search pattern(on answer)
  Complexity O(Nlogm) time & O(1) space
 */
