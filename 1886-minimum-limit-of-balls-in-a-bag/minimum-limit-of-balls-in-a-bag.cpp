@@ -6,7 +6,7 @@
 class Solution {
 public:
     int minimumSize(vector<int>& nums, int maxOperations) {
-        int L = 1;
+        int L = 1; 
         int R = *max_element(nums.begin(), nums.end());
         while (L < R) {
             int mid = L + (R - L) / 2;
