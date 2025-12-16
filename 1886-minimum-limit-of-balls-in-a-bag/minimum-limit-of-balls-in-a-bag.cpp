@@ -1,7 +1,7 @@
 /*
- Author:Nazmul Islam
- Using binary search pattern (On answer/conditions)
- Complexity: O(nlogn) time & O(1) space
+  Author:Nazmul Islam
+  Using binary search pattern (On answer/conditions)
+  Complexity: O(nlogn) time & O(1) space
 */
 class Solution {
 public:
