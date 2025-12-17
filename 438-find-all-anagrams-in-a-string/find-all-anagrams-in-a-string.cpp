@@ -11,7 +11,7 @@ public:
 
         vector<int> freq(26, 0), windFreq(26, 0);
         vector<int> res;
-        if (n < windSize)
+        if (n < windSize) //for handle edge cases
             return res;
 
         for (const auto& c : p)
