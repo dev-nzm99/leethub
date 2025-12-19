@@ -1,7 +1,7 @@
 /*
- Author:Nazmul Islam
- Using Sliding window pattern
- Complexity: O(n) & O(1)
+  Author:Nazmul Islam
+  Using Sliding window pattern
+  Complexity: O(n) & O(1)
 */
 class Solution {
 private:
