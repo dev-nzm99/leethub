@@ -1,26 +1,37 @@
+/*
+ Author:Nazmul Islam
+ Using Binary Search
+ Complexity: O(logn) and O(1)
+*/
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& a, int key) {
-        int n=a.size();
-        int low=0,high=n-1;
-        vector<int> ans(2,-1);
-        while(low<=high){
-            int mid = low+(high-low)/2;
-            if(a[mid]==key){
-               ans[0]=mid;high=mid-1;
-            }
-            else if(a[mid]<key)low=mid+1;
-            else high=mid-1;
+    vector<int> searchRange(vector<int>& arr, int target) {
+        int n = arr.size();
+        int L = 0, R = n - 1;
+        vector<int> res(2, -1);
+        // To find first position
+        while (L <= R) {
+            int mid = L + (R - L) / 2;
+            if (arr[mid] == target) {
+                res[0] = mid;
+                R = mid - 1;
+            } else if (arr[mid] < target)
+                L = mid + 1;
+            else
+                R = mid - 1;
         }
-        low=0,high=n-1;
-        while(low<=high){
-            int mid = low+(high-low)/2;
-            if(a[mid]==key){
-               ans[1]=mid;low=mid+1;
-            }
-            else if(a[mid]<key)low=mid+1;
-            else high=mid-1;
+        // To find last position
+        R = n - 1;
+        while (L <= R) {
+            int mid = L + (R - L) / 2;
+            if (arr[mid] == target) {
+                res[1] = mid;
+                L = mid + 1;
+            } else if (arr[mid] < target)
+                L = mid + 1;
+            else
+                R = mid - 1;
         }
-       return ans;
+        return res;
     }
 };
