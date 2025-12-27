@@ -1,7 +1,7 @@
 /*
- Author:Nazmul Islam
- Using prefix sum and Hash map
- COmplexity: O(n) time & O(n) Space
+  Author:Nazmul Islam
+  Using prefix sum and Hash map
+  COmplexity: O(n) time & O(n) Space
 */
 class Solution {
 public:
