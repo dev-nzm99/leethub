@@ -12,7 +12,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
   </a>
   <a>
     <!-- PROBLEM_BADGE -->
-  <img src="https://img.shields.io/badge/Total%20Solutions-98-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Solutions-99-8A2BE2?style=for-the-badge" />
   <!-- /PROBLEM_BADGE -->
   </a>
   <a>
