@@ -10,6 +10,8 @@
  * right(right) {}
  * };
  */
+
+//Commplexity: O(n^2)
 class Solution {
 private:
     int height(TreeNode* root) {
