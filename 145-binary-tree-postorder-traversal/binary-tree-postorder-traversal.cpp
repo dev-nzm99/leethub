@@ -10,7 +10,6 @@
  * right(right) {}
  * };
  */
-
 class Solution {
 private:
     void helperFunc(TreeNode* root, vector<int>& res) {
