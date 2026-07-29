@@ -41,3 +41,19 @@ It serves as a personal record of my problem-solving journey and continuous impr
 ---
 
 ⭐ If you find this repository helpful, consider giving it a **star**!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/dev-nzm99/leethub/tree/main/0189-rotate-array/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/dev-nzm99/leethub/tree/main/0189-rotate-array/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/dev-nzm99/leethub/tree/main/0189-rotate-array/) | Medium |
+<!---LeetCode Topics End-->
