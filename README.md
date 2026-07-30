@@ -49,6 +49,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/dev-nzm99/leethub/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/dev-nzm99/leethub/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/dev-nzm99/leethub/tree/main/0283-move-zeroes/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/dev-nzm99/leethub/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/dev-nzm99/leethub/tree/main/0283-move-zeroes/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
