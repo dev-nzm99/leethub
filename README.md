@@ -48,6 +48,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/dev-nzm99/leethub/tree/main/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/dev-nzm99/leethub/tree/main/0075-sort-colors/) | Medium |
 | [0162-find-peak-element](https://github.com/dev-nzm99/leethub/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/dev-nzm99/leethub/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/dev-nzm99/leethub/tree/main/0283-move-zeroes/) | Easy |
@@ -59,10 +60,15 @@ It serves as a personal record of my problem-solving journey and continuous impr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/dev-nzm99/leethub/tree/main/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/dev-nzm99/leethub/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/dev-nzm99/leethub/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/dev-nzm99/leethub/tree/main/0283-move-zeroes/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/dev-nzm99/leethub/tree/main/0162-find-peak-element/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/dev-nzm99/leethub/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
