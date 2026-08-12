@@ -53,6 +53,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dev-nzm99/leethub/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/dev-nzm99/leethub/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/dev-nzm99/leethub/tree/main/0283-move-zeroes/) | Easy |
+| [0881-boats-to-save-people](https://github.com/dev-nzm99/leethub/tree/main/0881-boats-to-save-people/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dev-nzm99/leethub/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/dev-nzm99/leethub/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/dev-nzm99/leethub/tree/main/0283-move-zeroes/) | Easy |
+| [0881-boats-to-save-people](https://github.com/dev-nzm99/leethub/tree/main/0881-boats-to-save-people/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +76,13 @@ It serves as a personal record of my problem-solving journey and continuous impr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/dev-nzm99/leethub/tree/main/0075-sort-colors/) | Medium |
+| [0881-boats-to-save-people](https://github.com/dev-nzm99/leethub/tree/main/0881-boats-to-save-people/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/dev-nzm99/leethub/tree/main/0881-boats-to-save-people/) | Medium |
+## Timsort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/dev-nzm99/leethub/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
