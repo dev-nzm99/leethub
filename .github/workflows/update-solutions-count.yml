@@ -17,7 +17,7 @@ jobs:
 
       - name: Count problem files and update README
         run: |
-          COUNT=$(find . -type f \( -name "*.cpp" -o -name "*.java" -o -name "*.py" \) \
+          COUNT=$(find . -type f \( -name "*.cpp" -o -name "*.java" -o -name "*.py" -o -name "*.cs" \) \
             ! -path "./.git/*" \
             ! -path "./.github/*" | wc -l | tr -d '[:space:]')
 
