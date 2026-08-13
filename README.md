@@ -48,6 +48,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/dev-nzm99/leethub/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/dev-nzm99/leethub/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/dev-nzm99/leethub/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/dev-nzm99/leethub/tree/main/0075-sort-colors/) | Medium |
 | [0162-find-peak-element](https://github.com/dev-nzm99/leethub/tree/main/0162-find-peak-element/) | Medium |
@@ -63,6 +64,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/dev-nzm99/leethub/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/dev-nzm99/leethub/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/dev-nzm99/leethub/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/dev-nzm99/leethub/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dev-nzm99/leethub/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -77,6 +79,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/dev-nzm99/leethub/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/dev-nzm99/leethub/tree/main/0075-sort-colors/) | Medium |
 | [0881-boats-to-save-people](https://github.com/dev-nzm99/leethub/tree/main/0881-boats-to-save-people/) | Medium |
 ## Greedy
