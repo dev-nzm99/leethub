@@ -54,6 +54,7 @@ It serves as a personal record of my problem-solving journey and continuous impr
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dev-nzm99/leethub/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/dev-nzm99/leethub/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/dev-nzm99/leethub/tree/main/0283-move-zeroes/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/dev-nzm99/leethub/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0881-boats-to-save-people](https://github.com/dev-nzm99/leethub/tree/main/0881-boats-to-save-people/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -98,4 +99,8 @@ It serves as a personal record of my problem-solving journey and continuous impr
 | [1148-article-views-i](https://github.com/dev-nzm99/leethub/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/dev-nzm99/leethub/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/dev-nzm99/leethub/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/dev-nzm99/leethub/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
